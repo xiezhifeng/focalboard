@@ -24,7 +24,7 @@
 	},
 	"dependencies": {
 		"cypress": "^6.8.0",
-		"emoji-mart": "^3.0.1",
+		"emoji-mart": "^5.0.0",
 		"imagemin-gifsicle": "^7.0.0",
 		"imagemin-mozjpeg": "^9.0.0",
 		"imagemin-optipng": "^8.0.0",
@@ -43,7 +43,7 @@
 		"react-hot-keys": "^2.6.2",
 		"react-hotkeys-hook": "^3.3.0",
 		"react-intl": "^5.13.5",
-		"react-router-dom": "^5.2.0",
+		"react-router-dom": "^6.4.0",
 		"react-select": "^4.3.0",
 		"react-simplemde-editor": "^4.1.3"
 	},
